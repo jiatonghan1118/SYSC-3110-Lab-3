@@ -1,4 +1,4 @@
-//hi I am third year Software Engineeer.
+//hi I am third year Software Engineer.
 
 import java.util.HashMap;
 
@@ -24,6 +24,9 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
         System.out.println("Address Book");
+    }
+
+    public void nothing() {
     }
 
 }
