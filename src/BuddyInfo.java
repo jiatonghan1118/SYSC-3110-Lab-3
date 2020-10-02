@@ -1,3 +1,4 @@
+//hello
 public class BuddyInfo {
     private String name;
     private String address;
